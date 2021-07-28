@@ -59,7 +59,7 @@
             <version>1.5.4</version>
         </dependency>
 
-       <dependency>
+        <dependency>
             <groupId>org.aspectj</groupId>
             <artifactId>aspectjrt</artifactId>
             <version>1.9.7</version>
